@@ -23,3 +23,4 @@ elif 24<bmi<28:
     print("超重")
 else :
     print('肥胖')
+print("bmi测试结束，欢迎再次光临")
